@@ -1,7 +1,7 @@
 # [Study] AWS EKS vs Vanilla Kubernetes 분석 리포트
 
 ## 1. 개요 (Overview)
-본 리포트는 오픈소스 **Vanilla Kubernetes**와 AWS의 관리형 서비스인 **EKS(Elastic Kubernetes Service)**의 구조적 차이점을 분석합니다. 특히 운영 효율성과 제어 권한의 경계를 'Control Plane'과 'Data Plane' 관점에서 정리하였습니다.
+본 리포트는 오픈소스 **Vanilla Kubernetes**와 AWS의 관리형 서비스인 EKS(Elastic Kubernetes Service)의 구조적 차이점을 분석합니다. 특히 운영 효율성과 제어 권한의 경계를 'Control Plane'과 'Data Plane' 관점에서 정리하였습니다.
 
 ---
 
